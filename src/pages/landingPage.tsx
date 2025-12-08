@@ -33,7 +33,7 @@ const LandingPage = () => {
                 <div className="size-full max-w-lg items-center justify-center overflow-hidden pt-8">
                     <BoxReveal boxColor={"#133E87"} duration={0.5}>
                         <p className="text-[2.5rem] font-semibold">
-                            GitHub Wrapped 2024<span className="text-[#133E87]">.</span>
+                            GitHub Wrapped 2025<span className="text-[#133E87]">.</span>
                         </p>
                     </BoxReveal>
 
