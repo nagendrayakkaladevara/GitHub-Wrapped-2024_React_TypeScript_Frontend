@@ -234,7 +234,7 @@ const FormPage = () => {
         },
         {
             Icon: GitCommitHorizontal,
-            name: "Total Commits made in 2024",
+            name: "Total Commits made in 2025",
             description: "",
             href: "#",
             cta: "",
@@ -262,7 +262,7 @@ const FormPage = () => {
         },
         {
             Icon: Share2Icon,
-            name: "Repositories created in 2024",
+            name: "Repositories created in 2025",
             description: "",
             href: "#",
             cta: "",
