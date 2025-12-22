@@ -12,8 +12,8 @@ import {
 const LandingPage = () => {
     return (
         <>
-            <div className="relative flex h-screen w-full items-center justify-center overflow-hidden rounded-lg border bg-background p-20 hidden">
-                <div className="absolute top-2 right-2">
+            <div className="relative flex h-screen w-full items-center justify-center overflow-hidden rounded-lg border bg-background p-20">
+                <div className="absolute top-2 right-2 hidden">
                     <Popover >
                         <PopoverTrigger asChild>
                             <Button variant="outline" className="text-xs sm:text-sm">Who built this?</Button>
