@@ -12,7 +12,7 @@ import {
 const LandingPage = () => {
     return (
         <>
-            <div className="relative flex h-screen w-full items-center justify-center overflow-hidden rounded-lg border bg-background p-20 ">
+            <div className="relative flex h-screen w-full items-center justify-center overflow-hidden rounded-lg border bg-background p-20 hidden">
                 <div className="absolute top-2 right-2">
                     <Popover >
                         <PopoverTrigger asChild>
